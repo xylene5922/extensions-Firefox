@@ -10,15 +10,15 @@ Les extensions Firefox indispensables
 
 Les extensions que je vais vous présenter ci-dessous sont celles que j’utilise en permanence sous Firefox Quantum. Il s’agit, par ordre alphabétique de :
 
-uBlock Origin, pour le blocage des publicités et du tracking, la désactivation de l’audit de liens (prise en charge des filtres esthétiques comme AdBlock Plus) ;
-Cookie AutoDelete, pour la destruction des cookies à la fermeture des onglets ;
-I still don’t care about cookies, une extension pour ne pas avoir à confirmer la gestion des cookies dans les sites que vous visitez ;
-CSS Exfil Protection, pour se prémunir du vol de données via les feuilles de style CSS ;
-DecentralEyes, pour éviter le pistage via les API fournies par les GAFAM qui jonchent nos sites Web ;
-ClearURLs, pour la réécriture d’urls afin d’éviter le tracking ;
-Select Context Search, pour faire une recherche à partir de la sélection d’un mot d’une page ;
-LiveMarks, pour afficher les liens des flux RSS dans les pages visitées depuis Firefox 64 ;
-Page Saver WE, pour les copies d’écran des pages visitées ;
+uBlock Origin, pour le blocage des publicités et du tracking, la désactivation de l’audit de liens (prise en charge des filtres esthétiques comme AdBlock Plus) ;<br>
+Cookie AutoDelete, pour la destruction des cookies à la fermeture des onglets ;<br>
+I still don’t care about cookies, une extension pour ne pas avoir à confirmer la gestion des cookies dans les sites que vous visitez ;<br>
+CSS Exfil Protection, pour se prémunir du vol de données via les feuilles de style CSS ;<br>
+DecentralEyes, pour éviter le pistage via les API fournies par les GAFAM qui jonchent nos sites Web ;<br>
+ClearURLs, pour la réécriture d’urls afin d’éviter le tracking ;<br>
+Select Context Search, pour faire une recherche à partir de la sélection d’un mot d’une page ;<br>
+LiveMarks, pour afficher les liens des flux RSS dans les pages visitées depuis Firefox 64 ;<br>
+Page Saver WE, pour les copies d’écran des pages visitées ;<br>
 Containerise, pour une simplification de la gestion des containers, permettant d’ajouter des domaines à vos containers ;
 Close same domain tabs.
 
@@ -29,13 +29,13 @@ Les extensions Firefox utiles
 
 J’utilise également de manière occasionnelle les extensions suivantes :
 
-WebGL Fingerprint Defender, pour se prémunir de la collecte de données à partir de l’utilisation du moteur graphique WebGL ;
-Canvas Fingerprint Defender, pour se prémunir de la technique de prise d’empreintes par du code HTML5 ;
-Firefox Multi-Account Containers, pour la création des containers ;
-Just Read, pour nettoyer les pages de leurs contenus inutiles ;
-Open link in new tab, pour ouvrir de nouveaux onglets en cliquant sur des liens hypertextes ;
+WebGL Fingerprint Defender, pour se prémunir de la collecte de données à partir de l’utilisation du moteur graphique WebGL ;<br>
+Canvas Fingerprint Defender, pour se prémunir de la technique de prise d’empreintes par du code HTML5 ;<br>
+Firefox Multi-Account Containers, pour la création des containers ;<br>
+Just Read, pour nettoyer les pages de leurs contenus inutiles ;<br>
+Open link in new tab, pour ouvrir de nouveaux onglets en cliquant sur des liens hypertextes ;<br>
 Joplin Web Clipper, pour envoyer vos contenus vers l’outil de prise de notes Joplin ;
-Temporary Containers, pour étanchéifier vos données personnelles de navigation et permettre de se connecter dans des onglets différents à des comptes Twitter, Facebook ou Gmail différents ;
+Temporary Containers, pour étanchéifier vos données personnelles de navigation et permettre de se connecter dans des onglets différents à des comptes Twitter, Facebook ou Gmail différents ;<br>
 HTTP Header Live, pour visualiser les émissions et réceptions d’entêtes HTTP/HTTPS ;
 Lightbeam, pour la mise en évidence du tracking perpétré par les marketeux ;
 Link Gopher, pour aspirer tous les liens d’une page ;
