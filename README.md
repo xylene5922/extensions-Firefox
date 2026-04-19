@@ -22,6 +22,9 @@ Page Saver WE, pour les copies d’écran des pages visitées ;<br>
 Containerise, pour une simplification de la gestion des containers, permettant d’ajouter des domaines à vos containers ;
 Close same domain tabs.
 
+<img width="682" height="837" alt="1" src="https://github.com/user-attachments/assets/2e44d6cc-c1a4-4aa2-bd81-c81a09583bbd" />
+
+
 * * *
 
 Les extensions Firefox utiles
